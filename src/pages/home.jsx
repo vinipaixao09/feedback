@@ -53,6 +53,6 @@ export function Home() {
 
                 <p>Agradecemos por dedicar um momento para nos avaliar. Se precisar de mais suporte, não hesite em entrar em contato! </p>
             </CardContainer>
-        )
-    )
+)
+)
 }

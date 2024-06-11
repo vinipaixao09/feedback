@@ -22,3 +22,7 @@ export const CardContainer = styled.div`
 
 
 `
+
+export const IconContainer = styled.div``
+
+export const ButtonContainer = styled.div``
